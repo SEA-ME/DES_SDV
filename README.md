@@ -1,2 +1,2 @@
-# project template
-Template repository for a SEA:ME (OER) project.
+# DES-HiLSimulation
+A Distributed Embedded Systems Module Project: Hardware in the Loop Simulation with Digital Cockpit.

@@ -1,4 +1,4 @@
-# Project XX: Project Title
+# Project 08: Hardware in the loop simulation with Digital Cockpit
 
 
 # Description
